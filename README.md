@@ -40,7 +40,7 @@ Follow these instructions to set up and run the "TechBlog" application on your l
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/yourusername/tech-blog.git
+   https://github.com/Priyansh-Kasera/TechBlog.git
 2. Open the project in your favorite Java IDE (e.g., Eclipse, IntelliJ IDEA).
 
 3. Configure the database connection in the project to connect to your MySQL database.
